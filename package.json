@@ -39,7 +39,7 @@
     "typescript": "^4.0.3"
   },
   "scripts": {
-    "start": "node signup",
+    "start": "node signup"
   },
   "eslintConfig": {
     "extends": "react-app"
